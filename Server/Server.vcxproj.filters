@@ -21,7 +21,10 @@
     <ClInclude Include="Sockets.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="packetSec.h">
+    <ClInclude Include="sha1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -35,7 +38,10 @@
     <ClCompile Include="Sockets.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="packetSec.cpp">
+    <ClCompile Include="sha1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
